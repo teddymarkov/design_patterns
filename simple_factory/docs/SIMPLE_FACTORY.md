@@ -1,0 +1,1 @@
+![Simple factory class structure](class_structure_diagram.svg)
